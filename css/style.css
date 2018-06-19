@@ -23,7 +23,7 @@ h1 {
   font-size: 2em;
 }
 
-.example, h3 {
+.example h3 {
   padding-top: 30px;
   text-align: center;
 }
@@ -42,4 +42,7 @@ h3
 div.background
 {
  background-color:green;
+ height: 100px;
+ margin: 10px 0;
+ width: 100%;
 }
